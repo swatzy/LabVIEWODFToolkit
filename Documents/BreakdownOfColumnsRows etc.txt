@@ -1,0 +1,42 @@
+Columns
+Element 1
+table:style-name="co1"
+
+<office:automatic-styles><style:style style:name="co1" style:family="table-column">
+ <style:table-column-properties fo:break-before="auto" style:column-width="2.258cm"/></style:style>
+ 
+Element 2
+table:style-name="co2"
+
+ <style:style style:name="co2" style:family="table-column">
+ <style:table-column-properties fo:break-before="auto" style:column-width="5.999cm"/></style:style>
+ 
+Element 3
+table:number-columns-repeated="11" 
+table:style-name="co1"
+ <style:table-column-properties fo:break-before="auto" style:column-width="2.258cm"/></style:style>
+ 
+Summary - 1 column 2.258 cm wide, 1 column 5.999cm wide, 11 columns 2.258 wide
+
+ 
+Rows
+1st Element
+
+value-type="string"
+<text:p>Title1</text:p>
+number-columns-repeated=12
+
+Title in A1, 12 columns of blank - 13 columns in all
+------------------------------------------------------------------------------------
+2nd Element
+<table:table-cell/> - empty cell for a2
+<table:table-cell value-type="string"
+ <text:p>aaaaaaaaaaaaaaaaaaaaa</text:p>
+table:table-cell table:number-columns-repeated="5"
+<table:table-cell value-type="string"
+  <text:p>H2</text:p>
+<table:table-cell table:number-columns-repeated="5"
+
+A2 is blank, b2=aaaaaaaaaaaaaaaaaaaaa, 5 blanks, H2, 5 blanks
+
+etc etc
