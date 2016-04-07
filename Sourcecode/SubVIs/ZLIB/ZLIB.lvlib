@@ -262,9 +262,6 @@
 		<Item Name="ZLIB Open Read File__ogtk.vi" Type="VI" URL="../lvzip.llb/ZLIB Open Read File__ogtk.vi"/>
 		<Item Name="ZLIB Open Unzip Archive__ogtk.vi" Type="VI" URL="../lvzip.llb/ZLIB Open Unzip Archive__ogtk.vi"/>
 		<Item Name="ZLIB Open Unzip Stream__ogtk.vi" Type="VI" URL="../lvzip.llb/ZLIB Open Unzip Stream__ogtk.vi"/>
-		<Item Name="ZLIB Open Write File__ogtk.vi" Type="VI" URL="../lvzip.llb/ZLIB Open Write File__ogtk.vi"/>
-		<Item Name="ZLIB Open Zip Archive__ogtk.vi" Type="VI" URL="../lvzip.llb/ZLIB Open Zip Archive__ogtk.vi"/>
-		<Item Name="ZLIB Open Zip Stream__ogtk.vi" Type="VI" URL="../lvzip.llb/ZLIB Open Zip Stream__ogtk.vi"/>
 		<Item Name="ZLIB Read Compressed File__ogtk.vi" Type="VI" URL="../lvzip.llb/ZLIB Read Compressed File__ogtk.vi"/>
 		<Item Name="ZLIB Read Compressed Stream__ogtk.vi" Type="VI" URL="../lvzip.llb/ZLIB Read Compressed Stream__ogtk.vi"/>
 		<Item Name="ZLIB Read Local Extra Data__ogtk.vi" Type="VI" URL="../lvzip.llb/ZLIB Read Local Extra Data__ogtk.vi"/>
@@ -272,8 +269,6 @@
 		<Item Name="ZLIB Transfer Raw File__ogtk.vi" Type="VI" URL="../lvzip.llb/ZLIB Transfer Raw File__ogtk.vi"/>
 		<Item Name="ZLIB Uncompress File Info__ogtk.ctl" Type="VI" URL="../lvzip.llb/ZLIB Uncompress File Info__ogtk.ctl"/>
 		<Item Name="ZLIB Unzip Handle__ogtk.ctl" Type="VI" URL="../lvzip.llb/ZLIB Unzip Handle__ogtk.ctl"/>
-		<Item Name="ZLIB Write File__ogtk.vi" Type="VI" URL="../lvzip.llb/ZLIB Write File__ogtk.vi"/>
-		<Item Name="ZLIB Write Stream__ogtk.vi" Type="VI" URL="../lvzip.llb/ZLIB Write Stream__ogtk.vi"/>
 		<Item Name="ZLIB Zip Handle__ogtk.ctl" Type="VI" URL="../lvzip.llb/ZLIB Zip Handle__ogtk.ctl"/>
 		<Item Name="ZLIB Path to Path String__ogtk.vi" Type="VI" URL="../lvzip.llb/ZLIB Path to Path String__ogtk.vi"/>
 		<Item Name="ZLIB Extract All Files To Dir__ogtk.vi" Type="VI" URL="../lvzip.llb/ZLIB Extract All Files To Dir__ogtk.vi"/>
@@ -319,10 +314,15 @@
 	<Item Name="ZLIB Extract__ogtk.vi" Type="VI" URL="../lvzip.llb/ZLIB Extract__ogtk.vi"/>
 	<Item Name="ZLIB File Info__ogtk.ctl" Type="VI" URL="../lvzip.llb/ZLIB File Info__ogtk.ctl"/>
 	<Item Name="ZLIB Open Unzip__ogtk.vi" Type="VI" URL="../lvzip.llb/ZLIB Open Unzip__ogtk.vi"/>
+	<Item Name="ZLIB Open Write File__ogtk.vi" Type="VI" URL="../lvzip.llb/ZLIB Open Write File__ogtk.vi"/>
+	<Item Name="ZLIB Open Zip Archive__ogtk.vi" Type="VI" URL="../lvzip.llb/ZLIB Open Zip Archive__ogtk.vi"/>
 	<Item Name="ZLIB Open ZIP Mode__ogtk.ctl" Type="VI" URL="../lvzip.llb/ZLIB Open ZIP Mode__ogtk.ctl"/>
+	<Item Name="ZLIB Open Zip Stream__ogtk.vi" Type="VI" URL="../lvzip.llb/ZLIB Open Zip Stream__ogtk.vi"/>
 	<Item Name="ZLIB Open Zip__ogtk.vi" Type="VI" URL="../ZLIB Open Zip__ogtk.vi"/>
 	<Item Name="ZLIB Store File With CompressionLevels__ogtk.vi" Type="VI" URL="../ZLIB Store File With CompressionLevels__ogtk.vi"/>
 	<Item Name="ZLIB Store File__ogtk.vi" Type="VI" URL="../ZLIB Store File__ogtk.vi"/>
 	<Item Name="ZLIB Store Stream__ogtk.vi" Type="VI" URL="../ZLIB Store Stream__ogtk.vi"/>
 	<Item Name="ZLIB Store__ogtk.vi" Type="VI" URL="../ZLIB Store__ogtk.vi"/>
+	<Item Name="ZLIB Write File__ogtk.vi" Type="VI" URL="../lvzip.llb/ZLIB Write File__ogtk.vi"/>
+	<Item Name="ZLIB Write Stream__ogtk.vi" Type="VI" URL="../lvzip.llb/ZLIB Write Stream__ogtk.vi"/>
 </Library>
